@@ -1,12 +1,9 @@
 package main
 
 import (
-	"testing"
-
-	"io/ioutil"
-
 	"bytes"
-
+	"io/ioutil"
+	"testing"
 	"time"
 
 	"github.com/sirupsen/logrus"

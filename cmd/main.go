@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"os"
 	"os/exec"
 	"strings"
-
-	"io/ioutil"
 
 	"github.com/renjuju/go-parallel"
 	"github.com/sirupsen/logrus"
